@@ -1,0 +1,6 @@
+{
+  "name": "Flash Player Web - SWF Player & Inspector",
+  "description": "Standalone Flash SWF player, parser and interactive inspector built without Ruffle. Supports SWF animations, vectors, bitmaps, audio, and timeline controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
